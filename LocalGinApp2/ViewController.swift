@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         print("ver 2")
         print("commit 1")
         print("commit 2")
+        print("risky code")
     }
 
 
