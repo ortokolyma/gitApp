@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("ver 1")
         print("commit 1")
-        
+        print("bug")
         
     }
 
