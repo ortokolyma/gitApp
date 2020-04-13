@@ -25,6 +25,7 @@ class ViewController: UIViewController {
         print("more risky code")
         print("commit 1")
         print("commit 2")
+        print("prepare for cherry picking")
     }
 
 
