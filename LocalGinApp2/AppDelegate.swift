@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  LocalGinApp2
 //
-//  Created by Андрей Исаев on 13.04.2020.
+//  Created by Андрей Исаев & Ivan Cherny on 13.04.2020.
 //  Copyright © 2020 Andrey isaev. All rights reserved.
 //
 
@@ -30,6 +30,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Called when the user discards a scene session.
         // If any sessions were discarded while the application was not running, this will be called shortly after application:didFinishLaunchingWithOptions.
         // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
+        // I hz chto napisano vyshe
     }
 
 
