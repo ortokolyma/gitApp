@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         print("commit 1")
         print("appstore published")
         print("bug fixed")
-        
+        print("Privet s Volgi!")
         print("ver 2")
         print("commit 1")
         print("commit 2")
