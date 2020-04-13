@@ -26,6 +26,8 @@ class ViewController: UIViewController {
         print("commit 1")
         print("commit 2")
         print("prepare for cherry picking")
+        
+        print("appstore 2")
     }
 
 
